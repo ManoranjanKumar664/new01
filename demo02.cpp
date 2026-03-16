@@ -4,6 +4,7 @@ using namespace std;
 int arr[5];
 int top=-1;
 
+// all functions are below:
 void insert(int a); //for inserting a single element 
 void delete(); //deleting a single/last element
 void show(); //to show all elements
